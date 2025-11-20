@@ -2,6 +2,8 @@
 
 **An automated PyMOL rendering pipeline for consistent, high-quality molecular visualizations with standardized coloring, lighting, and post-processing.**
 
+- Render.sh (for Linux) 
+- Render.ps1 (for Windows)
 ---
 
 ## **Features**
